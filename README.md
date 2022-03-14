@@ -1,7 +1,7 @@
 ### Hello there! 👋
 
 ## Meu nome é Daniel!
-## Atualmente sou aluno na Fatec - SJC
+Atualmente sou aluno na Fatec - SJC
 
 <!--
 **daniellsfilho/daniellsfilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
