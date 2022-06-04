@@ -10,7 +10,7 @@
 </div>
 
 
-![Snake animation](https://github.com/daniellsfilho/daniellsfilho)
+![Snake animation](https://github.com/daniellsfilho/daniellsfilho/blob/output/github-contribution-grid-snake.svg)
 
 ## :man_technologist: Sobre mim:
   :computer: Meu nome é Daniel!
