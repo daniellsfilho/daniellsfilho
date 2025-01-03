@@ -35,7 +35,7 @@
 
 ## :man_technologist: Sobre mim:
   :computer: Meu nome é Daniel!
-  - :seedling: Atualmente sou aluno do curso de Desenvolvimento de Software Multiplataforma na Fatec SJC
+  - :seedling: Formado no curso de Desenvolvimento de Software Multiplataforma na Fatec - São José dos Campos
   - :zap: Em meu tempo livre costumo ler livros, programar e estudar novos idiomas
   - :mailbox: Meu contato: [![Linkedin Badge](https://img.shields.io/badge/-DanielFilho-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-filho-3b6583209/)
 
